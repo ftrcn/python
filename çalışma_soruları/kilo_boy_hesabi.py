@@ -1,0 +1,23 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
+def vucut():
+    float(vucut_agirligi)=input("Lütfen kilonuzu(kg) giriniz:")
+    float(boy_uzunlugu)=input("Lütfen boy uzunluðunuzu(cm) giriniz:")
+    a= float(vucut_agirligi)
+    b=float(boy_uzunlugu)
+
+    boy_karesi=(b/100)**2
+    endeks=a/boy_karesi
+
+    if endeks<19:
+        print "zayýfsýnýz.Kilo almanýz gerek."
+
+    elif endeks<=25:
+        print "deðerleriniz normal,formdasýnýz."
+
+    elif endeks<=29:
+        print "þiþmansýnýz.Diyet yapmanýz gerek."
+
+    elif endeks>29:
+        print "çok þiþmansýnýz.eee  artýk  siz  düþünün."
+    
