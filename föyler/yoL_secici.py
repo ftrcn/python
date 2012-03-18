@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 def yoL_secici(x,y,z):
     if x==y==0 and y==z==0:
         print "a:0\nb:0\nc:0\nd:0\ne:0\nf:0\ng:0"

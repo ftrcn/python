@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 def en_kisa_keLime(cumle):
     k=cumle.split()
     kelime=k[0]

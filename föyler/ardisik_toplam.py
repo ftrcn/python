@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 def  ardisik_toplam(n):
      x=0
      if  n>0 and type(n)==type(int(n)):

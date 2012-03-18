@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 def  kac_basamak(a):
     x=0
     if a==0 :

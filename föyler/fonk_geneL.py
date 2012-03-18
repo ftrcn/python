@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 def kiyasLa(sayi_1,sayi_2):
     if sayi_1>sayi_2:
         return 1

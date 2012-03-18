@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 from __future__ import division
 
 def yarilar_toplami(sayi):

@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 import doctest
 def isaret_kontroL(sayi_1,sayi_2):
     """

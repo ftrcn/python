@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 import math
 def e_ussu(x):
     return math.exp(x)
