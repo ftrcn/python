@@ -1,3 +1,5 @@
+# -*- coding: cp1254 -*-
+#!/usr/bin/python
 def string_icindekiler(string):
     a=0
     b=0
